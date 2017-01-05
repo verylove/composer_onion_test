@@ -1,0 +1,13 @@
+{
+    "name": "yang/composer_onion_test",
+    "description": "composer onion test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yang Tao",
+            "email": "yt5538528@163.com"
+        }
+    ],
+    "require": {}
+}
