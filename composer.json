@@ -6,8 +6,13 @@
     "authors": [
         {
             "name": "Yang Tao",
-            "email": "yt5538528@163.com"
+            "email": "431910788@qq.com"
         }
     ],
+    "autoload": {
+        "psr-0": {
+            "Tool": "src/"
+        }
+    },
     "require": {}
 }
